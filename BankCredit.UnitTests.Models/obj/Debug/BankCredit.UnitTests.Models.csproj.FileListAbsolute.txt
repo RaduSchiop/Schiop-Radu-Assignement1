@@ -1,0 +1,8 @@
+C:\Users\Radu1\Desktop\PS\BankCredit-master\BankCredit.UnitTests.Models\bin\Debug\BankCredit.UnitTests.Models.dll
+C:\Users\Radu1\Desktop\PS\BankCredit-master\BankCredit.UnitTests.Models\bin\Debug\BankCredit.UnitTests.Models.pdb
+C:\Users\Radu1\Desktop\PS\BankCredit-master\BankCredit.UnitTests.Models\bin\Debug\BankCredit.Models.dll
+C:\Users\Radu1\Desktop\PS\BankCredit-master\BankCredit.UnitTests.Models\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Radu1\Desktop\PS\BankCredit-master\BankCredit.UnitTests.Models\bin\Debug\BankCredit.Models.pdb
+C:\Users\Radu1\Desktop\PS\BankCredit-master\BankCredit.UnitTests.Models\obj\Debug\BankCredit.UnitTests.Models.csprojResolveAssemblyReference.cache
+C:\Users\Radu1\Desktop\PS\BankCredit-master\BankCredit.UnitTests.Models\obj\Debug\BankCredit.UnitTests.Models.dll
+C:\Users\Radu1\Desktop\PS\BankCredit-master\BankCredit.UnitTests.Models\obj\Debug\BankCredit.UnitTests.Models.pdb
