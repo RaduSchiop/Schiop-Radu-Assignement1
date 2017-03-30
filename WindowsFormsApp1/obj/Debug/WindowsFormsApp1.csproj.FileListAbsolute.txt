@@ -1,0 +1,9 @@
+C:\Users\Radu1\Desktop\PS\BankCredit-master\WindowsFormsApp1\bin\Debug\RegularUser.exe.config
+C:\Users\Radu1\Desktop\PS\BankCredit-master\WindowsFormsApp1\bin\Debug\RegularUser.exe
+C:\Users\Radu1\Desktop\PS\BankCredit-master\WindowsFormsApp1\bin\Debug\RegularUser.pdb
+C:\Users\Radu1\Desktop\PS\BankCredit-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\Radu1\Desktop\PS\BankCredit-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Radu1\Desktop\PS\BankCredit-master\WindowsFormsApp1\obj\Debug\RegularUser.Properties.Resources.resources
+C:\Users\Radu1\Desktop\PS\BankCredit-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\Radu1\Desktop\PS\BankCredit-master\WindowsFormsApp1\obj\Debug\RegularUser.exe
+C:\Users\Radu1\Desktop\PS\BankCredit-master\WindowsFormsApp1\obj\Debug\RegularUser.pdb
