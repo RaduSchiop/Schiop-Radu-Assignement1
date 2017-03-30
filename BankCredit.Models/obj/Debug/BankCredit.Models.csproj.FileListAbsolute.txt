@@ -1,0 +1,5 @@
+C:\Users\Radu1\Desktop\PS\BankCredit-master\BankCredit.Models\bin\Debug\BankCredit.Models.dll
+C:\Users\Radu1\Desktop\PS\BankCredit-master\BankCredit.Models\bin\Debug\BankCredit.Models.pdb
+C:\Users\Radu1\Desktop\PS\BankCredit-master\BankCredit.Models\obj\Debug\BankCredit.Models.dll
+C:\Users\Radu1\Desktop\PS\BankCredit-master\BankCredit.Models\obj\Debug\BankCredit.Models.pdb
+C:\Users\Radu1\Desktop\PS\BankCredit-master\BankCredit.Models\obj\Debug\BankCredit.Models.csprojResolveAssemblyReference.cache

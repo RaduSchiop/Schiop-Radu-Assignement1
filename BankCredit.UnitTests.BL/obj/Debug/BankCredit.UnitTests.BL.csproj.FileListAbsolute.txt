@@ -1,0 +1,15 @@
+C:\Users\Radu1\Desktop\PS\BankCredit-master\BankCredit.UnitTests.BL\bin\Debug\BankCredit.UnitTests.BL.dll.config
+C:\Users\Radu1\Desktop\PS\BankCredit-master\BankCredit.UnitTests.BL\bin\Debug\BankCredit.UnitTests.BL.dll
+C:\Users\Radu1\Desktop\PS\BankCredit-master\BankCredit.UnitTests.BL\bin\Debug\BankCredit.UnitTests.BL.pdb
+C:\Users\Radu1\Desktop\PS\BankCredit-master\BankCredit.UnitTests.BL\bin\Debug\BankCredit.BL.dll
+C:\Users\Radu1\Desktop\PS\BankCredit-master\BankCredit.UnitTests.BL\bin\Debug\BankCredit.Models.dll
+C:\Users\Radu1\Desktop\PS\BankCredit-master\BankCredit.UnitTests.BL\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Radu1\Desktop\PS\BankCredit-master\BankCredit.UnitTests.BL\bin\Debug\BankCredit.DAL.dll
+C:\Users\Radu1\Desktop\PS\BankCredit-master\BankCredit.UnitTests.BL\bin\Debug\MySql.Data.dll
+C:\Users\Radu1\Desktop\PS\BankCredit-master\BankCredit.UnitTests.BL\bin\Debug\BankCredit.BL.pdb
+C:\Users\Radu1\Desktop\PS\BankCredit-master\BankCredit.UnitTests.BL\bin\Debug\BankCredit.Models.pdb
+C:\Users\Radu1\Desktop\PS\BankCredit-master\BankCredit.UnitTests.BL\bin\Debug\BankCredit.DAL.pdb
+C:\Users\Radu1\Desktop\PS\BankCredit-master\BankCredit.UnitTests.BL\bin\Debug\BankCredit.DAL.dll.config
+C:\Users\Radu1\Desktop\PS\BankCredit-master\BankCredit.UnitTests.BL\obj\Debug\BankCredit.UnitTests.BL.csprojResolveAssemblyReference.cache
+C:\Users\Radu1\Desktop\PS\BankCredit-master\BankCredit.UnitTests.BL\obj\Debug\BankCredit.UnitTests.BL.dll
+C:\Users\Radu1\Desktop\PS\BankCredit-master\BankCredit.UnitTests.BL\obj\Debug\BankCredit.UnitTests.BL.pdb
